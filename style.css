@@ -520,3 +520,9 @@ label {
         text-align: left;
     }
 }
+
+@media screen and (min-width: 1440px) {
+  .container {
+    max-width: 1024px;
+  }
+}
